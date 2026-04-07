@@ -598,6 +598,6 @@ Professional game developers use binary search for matchmaking, difficulty scali
 
 ## Finished?
 
-When done with the lab (committed and pushed on GitHub), show instructor and state your name to be marked as done!
+When done with the lab (committed and pushed on GitHub)
 
 ---
